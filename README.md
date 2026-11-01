@@ -2,7 +2,7 @@
 
 Official Android downloads for Vantage. This repository contains installation documentation and release files; the application source is maintained separately.
 
-**No production APK has been published yet.** Signed APKs will appear on the [Releases page](https://github.com/vaatun/vantage-downloads/releases).
+**No production APK has been published yet.** Initial builds support ARM64 Android phones. Signed APKs will appear on the [Releases page](https://github.com/vaatun/vantage-downloads/releases).
 
 ## Installation
 
